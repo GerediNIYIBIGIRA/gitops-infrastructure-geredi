@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/GerediNIYIBIGABIRA/gitops-infrastructure-geredi.git
+    repoURL:  https://github.com/GerediNIYIBIGIRA/gitops-infrastructure-geredi.git
     targetRevision: HEAD
     path: apps/nginx-sample
 
